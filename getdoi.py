@@ -23,3 +23,4 @@ if __name__ == '__main__':
         doi = item['DOI']
         print(f"title: {title}")
         print(f"doi: {doi}")
+        print()
